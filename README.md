@@ -16,7 +16,7 @@ I'm currently a second year computer science student at Ontario Tech University.
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,figma,github,notion,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,figma,github,notion,&theme=dark)](https://skillicons.dev)
 
 ### Socials
 
