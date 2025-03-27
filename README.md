@@ -12,7 +12,7 @@ I'm currently a second year computer science student at Ontario Tech University.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,r,git,html,css,latex,maven,linux,ubuntu,matlab,arduino,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,kotlin,r,git,html,css,latex,maven,linux,ubuntu,matlab,arduino,&theme=dark)](https://skillicons.dev)
 
 ### Tools
 
