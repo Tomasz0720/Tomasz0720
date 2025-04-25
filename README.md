@@ -1,12 +1,11 @@
 Hi, I'm Tomasz 👋
 =======================
     
-I'm currently a second year computer science student at Ontario Tech University.
+I'm a third year computer science student at Ontario Tech University.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [tomaszapuzio@gmail.com](mailto:tomaszapuzio@gmail.com)
 * 🚀  I'm currently working on **SUSTAIN**, an environmentally friendly, token-optimized AI wrapper designed to reduce computing costs and increase productivity.
-* 🚀  I'm also working on **mID**, A website that will allow employees to clock into work easier and faster.
 * 🧠  I'm learning machine learning and AI.
 
 
