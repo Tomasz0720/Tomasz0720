@@ -15,7 +15,7 @@ I'm a third year computer science student at Ontario Tech University.
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,replit,pycharm,idea,androidstudio,postman,figma,github,notion,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,replit,pycharm,idea,androidstudio,postman,shopify,figma,github,notion,&theme=dark)](https://skillicons.dev)
 
 ### Socials
 
