@@ -1,7 +1,7 @@
 Hi, I'm Tomasz 👋
 =======================
     
-I'm a third year computer science student at Ontario Tech University.
+I'm a third year Computer Science student at Ontario Tech University, pursuing a minor in Mathematics and a specialization in Data Science.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [tomaszapuzio@gmail.com](mailto:tomaszapuzio@gmail.com)
