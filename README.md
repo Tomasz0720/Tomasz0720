@@ -11,7 +11,7 @@ I'm a third year Computer Science student at Ontario Tech University, pursuing a
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,kotlin,r,js,git,html,css,latex,maven,linux,ubuntu,matlab,arduino,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,kotlin,r,js,flask,git,html,css,latex,maven,linux,ubuntu,matlab,arduino,&theme=dark)](https://skillicons.dev)
 
 ### Tools
 
