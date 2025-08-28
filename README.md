@@ -21,3 +21,4 @@ I'm a third year Computer Science student at Ontario Tech University, pursuing a
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/tomasz-puzio/)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/Tomasz0720)
+[![Mastodon](https://skillicons.dev/icons?i=mastodon&theme=dark)](https://mastodon.social/@tomaszpuzio)
