@@ -75,7 +75,7 @@ Currently exploring **computer graphics, data visualization, and intelligent sys
   <a href="https://www.tomaszpuzio.ca/"><img src="assets/tiles/portfolio.svg" width="96" height="96" alt="portfolio"/></a>
   <a href="https://www.linkedin.com/in/tomasz-puzio/"><img src="assets/tiles/linkedin.svg" width="96" height="96" alt="linkedin"/></a>
   <a href="https://mastodon.social/@tomaszpuzio"><img src="assets/tiles/mastodon.svg" width="96" height="96" alt="mastodon"/></a>
-  <a href="https://medium.com/@tomaszpuzio"><img src="assets/tiles/medium.svg" width="96" height="96" alt="medium"/></a>
+  <a href="https://medium.com/@tomaszapuzio"><img src="assets/tiles/medium.svg" width="96" height="96" alt="medium"/></a>
   <a href="https://stuffwithtomaszpuzio.substack.com/"><img src="assets/tiles/substack.svg" width="96" height="96" alt="substack"/></a>
   <a href="mailto:tomaszapuzio@gmail.com"><img src="assets/tiles/gmail.svg" width="96" height="96" alt="gmail"/></a>
 </p>
